@@ -124,5 +124,9 @@ Seguir creciendo como desarrollador y participar en proyectos donde pueda aporta
 * Intagram: https://www.instagram.com/william._.tr1/
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=william-martinez5101&label=Visitas&color=0e75b6&style=flat" />
+</p>
+
 
 ⭐ *Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones reales.*
