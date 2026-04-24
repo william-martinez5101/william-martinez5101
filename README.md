@@ -1,5 +1,9 @@
 # 👋 Hola, soy William Martinez
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Developer;Apasionado+por+la+tecnología;Siempre+aprendiendo+nuevas+cosas" />
+</p>
+
 💻 **Desarrollador Full Stack** enfocado en construir soluciones eficientes, escalables y bien estructuradas.
 
 ---
